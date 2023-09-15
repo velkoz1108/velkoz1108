@@ -5,7 +5,7 @@
 
 
 
-![](https://github.com/velkoz1108/velkoz1108/blob/contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/velkoz1108/velkoz1108/main/contribution-grid-snake.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=velkoz1108"></img>
 
